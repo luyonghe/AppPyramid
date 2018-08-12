@@ -4,7 +4,17 @@
 
 ## 内容概览
 
-### 1.框架模式
+### 1.IDE 与开发语言
+
+|No.|Android|iOS
+|---|---|---
+|1|Android Studio|Xcode/AppCode
+
+|No.|Android|iOS
+|---|---|---
+|1|Java/Kotlin/C/C++/JavaScript/HTML/Dart|Objective-C/Swift/C/C++/JavaScript/HTML
+
+### 2.框架模式
 
 |No.|Android|iOS
 |---|---|---
@@ -13,7 +23,7 @@
 |3|MVVM|MVVM
 |4|-|Viper
 
-### 2.第三方库
+### 3.第三方库
 
 |No.| 需要确认的功能库|Android|iOS
 |---|---|---|---
