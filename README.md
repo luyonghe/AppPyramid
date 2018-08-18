@@ -27,9 +27,9 @@
 
 |No.|Libraries|Android(Java)|Android(Kotlin)|iOS(Objective-C)|iOS(Swift)
 |---|---|---|---|---|---
-|1|Log|[Logger](https://github.com/orhanobut/logger)||[CocoaLumberjack `3.3`](https://github.com/CocoaLumberjack/CocoaLumberjack)|[SwiftyBeaver `1.6.0`](https://github.com/SwiftyBeaver/SwiftyBeaver)
+|1|Log|[Logger `2.2.0`](https://github.com/orhanobut/logger)||[CocoaLumberjack `3.3`](https://github.com/CocoaLumberjack/CocoaLumberjack)|[SwiftyBeaver `1.6.0`](https://github.com/SwiftyBeaver/SwiftyBeaver)
 |2|网络请求（包含缓存数据的存储）||
-|3|数据库选择|GreenDao(版本待定)|fmdb(oc:2.6,swift:2.7)|
+|3|数据库选择|[GreenDao `3.2.2`](https://github.com/greenrobot/greenDAO)|[fmdb `2.6`](https://github.com/ccgus/fmdb)|
 |4|数据库第三方框架的选择||
 |5|图片格式||
 |6|权限第三方框架||
