@@ -27,21 +27,20 @@
 
 |No.|Libraries|Android(Java)|Android(Kotlin)|iOS(Objective-C)|iOS(Swift)
 |---|---|---|---|---|---
-|1|Log|[Logger `2.2.0`](https://github.com/orhanobut/logger) ✅||[CocoaLumberjack `3.3`](https://github.com/CocoaLumberjack/CocoaLumberjack) ✅|[SwiftyBeaver `1.6.0`](https://github.com/SwiftyBeaver/SwiftyBeaver) ✅
-|2|Network & Download & Cache||
-|3|数据库选择|[GreenDao `3.2.2`](https://github.com/greenrobot/greenDAO)|[fmdb `2.6`](https://github.com/ccgus/fmdb)|
-|4|数据库第三方框架的选择||
-|5|图片格式||
-|6|权限第三方框架||
-|7|二维码	||
-|8|Crash 捕获||
-|9|代码注释文档生成||
-|10|Android Studio 和 Xcode 插件||
-|11|JSON 解析||
-|12|蓝牙库	||
-|13|热修复	||
-|14|动画||
-|15|与 JavaScript 交互||
+|1|Log|✅ [Logger `2.2.0`](https://github.com/orhanobut/logger) ||✅ [CocoaLumberjack `3.3`](https://github.com/CocoaLumberjack/CocoaLumberjack) |✅ [SwiftyBeaver `1.6.0`](https://github.com/SwiftyBeaver/SwiftyBeaver) 
+|2|Network||
+|3|Database|[GreenDao `3.2.2`](https://github.com/greenrobot/greenDAO)|[fmdb `2.6`](https://github.com/ccgus/fmdb)|
+|4|Image||
+|5|Permission||
+|6|QRCode||
+|7|Crash||
+|8|Doc||
+|9|IDE Plugin||
+|10|JSON||
+|11|Bluetooth||
+|12|Hot Fix||
+|13|Animation||
+|14|JavaScript||
 
 ### 4.开发规范文档
 
