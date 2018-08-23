@@ -25,22 +25,22 @@
 
 ### 3.第三方库
 
-|No.|Libraries|Android(Java)|Android(Kotlin)|iOS(Objective-C)|iOS(Swift)
-|---|---|---|---|---|---
-|1|Log|✅ [Logger `2.2.0`](https://github.com/orhanobut/logger) ||✅ [CocoaLumberjack `3.4.2`](https://github.com/CocoaLumberjack/CocoaLumberjack) |✅ [SwiftyBeaver `1.6.0`](https://github.com/SwiftyBeaver/SwiftyBeaver) 
-|2|Network||
-|3|Database|[GreenDao `3.2.2`](https://github.com/greenrobot/greenDAO)||[fmdb `2.7.4`](https://github.com/ccgus/fmdb)
-|4|Image||
-|5|Permission||
-|6|QRCode||
-|7|Crash||
-|8|Doc||
-|9|IDE Plugin||
-|10|JSON||
-|11|Bluetooth||
-|12|Hot Fix||
-|13|Animation||
-|14|JavaScript||
+|Libraries|Android(Java)|Android(Kotlin)|iOS(Objective-C)|iOS(Swift)
+|---|---|---|---|---
+|Log|✅ [Logger `2.2.0`](https://github.com/orhanobut/logger) |TBD|✅ [CocoaLumberjack `3.4.2`](https://github.com/CocoaLumberjack/CocoaLumberjack) |✅ [SwiftyBeaver `1.6.0`](https://github.com/SwiftyBeaver/SwiftyBeaver) 
+|Network||
+|Database|✅ [greenDAO `3.2.2`](https://github.com/greenrobot/greenDAO)||✅ [fmdb `2.7.4`](https://github.com/ccgus/fmdb)
+|Image||
+|Permission||
+|QRCode||
+|Crash||
+|Doc||
+|IDE Plugin||
+|JSON||
+|Bluetooth||
+|Hot Fix||
+|Animation||
+|JavaScript||
 
 ### 4.开发规范文档
 
