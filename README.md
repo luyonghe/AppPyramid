@@ -29,7 +29,7 @@
 |---|---|---|---|---|---
 |1|Log|✅ [Logger `2.2.0`](https://github.com/orhanobut/logger) ||✅ [CocoaLumberjack `3.3`](https://github.com/CocoaLumberjack/CocoaLumberjack) |✅ [SwiftyBeaver `1.6.0`](https://github.com/SwiftyBeaver/SwiftyBeaver) 
 |2|Network||
-|3|Database|[GreenDao `3.2.2`](https://github.com/greenrobot/greenDAO)|[fmdb `2.6`](https://github.com/ccgus/fmdb)|
+|3|Database|[GreenDao `3.2.2`](https://github.com/greenrobot/greenDAO)||[fmdb `2.7.4`](https://github.com/ccgus/fmdb)
 |4|Image||
 |5|Permission||
 |6|QRCode||
