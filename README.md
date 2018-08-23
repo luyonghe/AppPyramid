@@ -1,26 +1,53 @@
 # AppPyramid
 
-本仓库仅用来技术推进。
+本仓库是用来整理 Android & iOS 移动应用开发的技术架构。
 
-### mvc、mvp、mvvm、viper 开发模式确认
+## 内容概览
 
-#### 常用第三方库的确认
+### 1.IDE 与开发语言
 
-|No.| 需要确认的功能库|Android|iOS
-|---|---|---|---
-|1|Log 日志打印输出 
-|2|网络请求（包含缓存数据的存储）
-|3|数据库选择
-|4|数据库第三方框架的选择
-|5|图片格式
-|6|权限第三方框架
-|7|二维码	
-|8|crash 捕获
-|9|代码注释文档生成
-|10|android studio 和 Xcode 插件
-|11|JSON 解析
-|12|蓝牙库	
-|13|热修复	
+|No.|Android|iOS
+|---|---|---
+|1|Android Studio|Xcode/AppCode
 
-#### iOS 、安卓规范文档
+|No.|Android|iOS
+|---|---|---
+|1|Java/Kotlin/C/C++/JavaScript/HTML/Dart|Objective-C/Swift/C/C++/JavaScript/HTML
 
+### 2.框架模式
+
+|No.|Android|iOS
+|---|---|---
+|1|MVC|MVC
+|2|MVP|MVP
+|3|MVVM|MVVM
+|4|-|Viper
+
+### 3.第三方库
+
+|Libraries|Android(Java)|Android(Kotlin)|iOS(Objective-C)|iOS(Swift)
+|---|---|---|---|---
+|Log|✅ [Logger `2.2.0`](https://github.com/orhanobut/logger) |TBD|✅ [CocoaLumberjack `3.4.2`](https://github.com/CocoaLumberjack/CocoaLumberjack) |✅ [SwiftyBeaver `1.6.0`](https://github.com/SwiftyBeaver/SwiftyBeaver) 
+|Network||
+|Database|✅ [greenDAO `3.2.2`](https://github.com/greenrobot/greenDAO)||✅ [fmdb `2.7.4`](https://github.com/ccgus/fmdb)
+|Image||
+|Permission||
+|QRCode||
+|Crash||
+|Doc||
+|IDE Plugin||
+|JSON||
+|Bluetooth||
+|Hot Fix||
+|Animation||
+|JavaScript||
+
+### 4.开发规范文档
+
+### 5.代码版本管理
+
+### 6.Code Review
+
+### 7.CI & CD
+
+**持续更新中！**
