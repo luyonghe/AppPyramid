@@ -27,9 +27,9 @@
 
 |Libraries|Android(Java)|Android(Kotlin)|iOS(Objective-C)|iOS(Swift)
 |---|---|---|---|---
-|Log|✅ [Logger `2.2.0`](https://github.com/orhanobut/logger) ||✅ [CocoaLumberjack `3.4.2`](https://github.com/CocoaLumberjack/CocoaLumberjack) |✅ [SwiftyBeaver `1.6.0`](https://github.com/SwiftyBeaver/SwiftyBeaver) 
+|Log|✅ [Logger `2.2.0`](https://github.com/orhanobut/logger) |TBD|✅ [CocoaLumberjack `3.4.2`](https://github.com/CocoaLumberjack/CocoaLumberjack) |✅ [SwiftyBeaver `1.6.0`](https://github.com/SwiftyBeaver/SwiftyBeaver) 
 |Network||
-|Database|[GreenDao `3.2.2`](https://github.com/greenrobot/greenDAO)||[fmdb `2.7.4`](https://github.com/ccgus/fmdb)
+|Database|✅ [greenDAO `3.2.2`](https://github.com/greenrobot/greenDAO)||✅ [fmdb `2.7.4`](https://github.com/ccgus/fmdb)
 |Image||
 |Permission||
 |QRCode||
