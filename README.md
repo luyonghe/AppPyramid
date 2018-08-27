@@ -25,9 +25,9 @@
 
 ### 3.第三方库
 
-<table border="1">
+<table border="0">
 <tr>
-<td style="text-align:left;font-size:12pt" rowspan="2">Library</td>
+<td style="text-align:center;font-size:12pt" rowspan="2">Library</td>
 <td style="text-align:center;font-size:12pt" colspan="2">Android</td>
 <td style="text-align:center;font-size:12pt" colspan="2">iOS</td>
 </tr>
