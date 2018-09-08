@@ -46,10 +46,10 @@
 </tr>
 <tr>
 <td style="text-align:left;font-size:12pt">Network</td>
-<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/square/retrofit">Retrofit <SUP>2.4.0</SUP><br>✅ <a href="https://github.com/bumptech/glide">Glide <SUP>4.8.0</SUP></a></td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/square/retrofit">Retrofit <SUP>2.4.0</SUP><br>✅ <a href="https://github.com/roths/GlideWebpSupport">GlideWebpSupport <SUP></SUP><br>✅ <a href="https://github.com/2coffees1team/GlideToVectorYou">GlideToVectorYou <SUP>1.1.0</SUP><br>✅ <a href="https://github.com/bumptech/glide">Glide <SUP>4.8.0</SUP></a></td>
 <td style="text-align:left;font-size:12pt">TBD</td>
-<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/yuantiku/YTKNetwork">YTKNetwork <SUP>2.0.4</SUP><br>✅ <a href="https://github.com/bumptech/glide">SDWebImage <SUP>4.4.2</SUP></a><br>✅ <a href="https://github.com/tonymillion/Reachability">Reachability <SUP>3.2</SUP></a></td>
-<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/Alamofire/Alamofire">Alamofire <SUP>4.7.3</SUP><br>✅ <a href="https://github.com/onevcat/Kingfisher">Kingfisher <SUP>4.8.1</SUP></a><br>✅ <a href="https://github.com/tonymillion/Reachability">Reachability <SUP>3.2</SUP></a></td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/yuantiku/YTKNetwork">YTKNetwork <SUP>2.0.4</SUP><br>✅ <a href="https://github.com/rs/SDWebImage">SDWebImage/WebP <SUP>4.4.2</SUP></a><br>✅ <a href="https://github.com/tonymillion/Reachability">Reachability <SUP>3.2</SUP></a></td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/Alamofire/Alamofire">Alamofire <SUP>4.7.3</SUP><br>✅ <a href="https://github.com/onevcat/Kingfisher">Kingfisher <SUP>4.8.1</SUP></a><br>✅ <a https://github.com/Yeatse/KingfisherWebP">KingfisherWebP <SUP>0.4.1</SUP></a><br>✅ <a href="https://github.com/tonymillion/Reachability">Reachability <SUP>3.2</SUP></a></td>
 </tr>
 <tr>
 <td style="text-align:left;font-size:12pt">Database</td>
