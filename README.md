@@ -95,10 +95,10 @@
 </tr>
 <tr>
 <td style="text-align:left;font-size:12pt">JSON</td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
+<td style="text-align:left;font-size:12pt">TBD</td>
+<td style="text-align:left;font-size:12pt">TBD</td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/CoderMJLee/MJExtension">MJExtension <SUP>3.0.14</SUP></td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/SwiftyJSON/SwiftyJSON">SwiftyJSON <SUP>4.0.0</SUP></td>
 </tr>
 <tr>
 <td style="text-align:left;font-size:12pt">Bluetooth</td>
