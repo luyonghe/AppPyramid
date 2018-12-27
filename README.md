@@ -60,24 +60,24 @@
 </tr>
 <tr>
 <td style="text-align:left;font-size:12pt">Permission</td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/googlesamples/easypermissions">Easypermissions <SUP>2.0.0</SUP></td>
+<td style="text-align:left;font-size:12pt">TBD</td>
+<td style="text-align:left;font-size:12pt">TBD</td>
+<td style="text-align:left;font-size:12pt">TBD</td>
 </tr>
 <tr>
 <td style="text-align:left;font-size:12pt">QRCode</td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/zxing/zxing">zxing <SUP>3.3.4</SUP></td>
+<td style="text-align:left;font-size:12pt">TBD</td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/MxABC/LBXScan">LBXScan <SUP>2.3.0</SUP></td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/MxABC/swiftScan">swiftScan <SUP>1.1.3</SUP></td>
 </tr>
 <tr>
 <td style="text-align:left;font-size:12pt">Crash</td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://bugly.qq.com/v2/downloads">Bugly <SUP>2.8.6</SUP></td>
+<td style="text-align:left;font-size:12pt">TBD</td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://bugly.qq.com/v2/downloads">Bugly <SUP>2.8.6</SUP></td>
+<td style="text-align:left;font-size:12pt">TBD</td>
 </tr>
 <tr>
 <td style="text-align:left;font-size:12pt">Doc</td>
