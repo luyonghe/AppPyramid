@@ -116,17 +116,18 @@
 </tr>
 <tr>
 <td style="text-align:left;font-size:12pt">Animation</td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/airbnb/lottie-android"> Lottie <SUP>2.8.0</SUP><br>✅ <a href="https://github.com/Justson/AgentWeb">AgentWeb<SUP>4.0.3</SUP></td>
+<td style="text-align:left;font-size:12pt">TBD</td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/facebook/pop">pop <SUP>1.0.11</SUP><br>✅ <a href="https://github.com/jdg/MBProgressHUD">MBProgressHUD <SUP>1.1</SUP><br>✅ <a href="https://github.com/SVProgressHUD/SVProgressHUD">SVProgressHUD<SUP>2.2.5</SUP></td>
+<td style="text-align:left;font-size:12pt">TBD</td>
+  
 </tr>
 <tr>
 <td style="text-align:left;font-size:12pt">JavaScript</td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
-<td style="text-align:left;font-size:12pt"></td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/lzyzsd/JsBridge"> JSBridge <SUP>1.0.4</SUP></td>
+<td style="text-align:left;font-size:12pt">TBD</td>
+<td style="text-align:left;font-size:12pt">✅ <a href="https://github.com/marcuswestin/WebViewJavascriptBridge"> JSBridge <SUP>6.0.3</SUP></td>
+<td style="text-align:left;font-size:12pt">TBD</td>
 </tr>
 <tr>
 <td style="text-align:left;font-size:12pt">...</td>
